@@ -125,3 +125,7 @@ db.sqlite3
 db copy.sqlite3
 staticfiles/
 media/
+
+# Pyrefly
+pyrefly.toml
+.pyrefly/
